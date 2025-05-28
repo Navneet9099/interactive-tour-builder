@@ -13,3 +13,4 @@ Welcome to the Marv Landing Page, a simple and modern landing page built with Re
 🖼️ Hero section with call-to-action
 
 🧠 Easy to customize and extend
+Need more time to make the editor page 
